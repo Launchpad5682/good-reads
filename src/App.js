@@ -57,7 +57,7 @@ const javascript = [
       "Are you looking for a better way to deeply learn the fundamentals of JavaScript? Look no further!The foundation of all programs is the organization of its variables and functions into different nested scopes. Yet, most developers haven't deeply contemplated how and why these decisions are made and the impacts on code maintainability.The worldwide best selling 'You Don't Know JS' book series is back for a 2nd edition: 'You Don't Know JS Yet'. All 6 books are brand new, rewritten to cover all sides of JS for 2020 and beyond.'Scope & Closures' examines all aspects of lexical scope, then builds on these principles to leverage the power of closure, and finally digs into the module pattern for better program structure.",
   },
   {
-    book: "Javascript: The Good Parts",
+    book: "Javascript The Good Parts",
     rating: "4.5/5",
     description:
       "Most programming languages contain good and bad parts, but JavaScript has more than its share of the bad, having been developed and released in a hurry before it could be refined. This authoritative book scrapes away these bad features to reveal a subset of JavaScript that's more reliable, readable, and maintainable than the language as a whole—a subset you can use to create truly extensible and efficient code.",
